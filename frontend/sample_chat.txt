@@ -1,0 +1,25 @@
+ # Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Private data and secrets
+.env
+chats/
+data/private/
+
+# Editor files
+.vscode/
+streamlit
+pandas
+plotly
+python-dateutil
+06/11/2026, 10:00 am - Rahul: Hey Kriti, shall we start our hackathon project?
+06/11/2026, 10:02 am - Kriti: Sure, let's start.
+06/11/2026, 10:05 am - Rahul: I will handle the backend development.
+06/11/2026, 10:07 am - Kriti: I will work on the frontend and dashboard.
+06/11/2026, 10:10 am - Rahul: Let's complete the first version by tomorrow.
+06/11/2026, 10:12 am - Kriti: Okay, let's discuss this further.
